@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damarbumi Ramadhan</h1>
+<h1 align="center">Welcome!</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <p>Hallo everyone, I'm Damarbumi Ramadhan, Damar for short. I'm a passionate - on learning - frontend developer based on Indonesia</p>
 
