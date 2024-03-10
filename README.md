@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Damar Ramadhan</h1>
 
-<h3 align="left">✨ About Me</h3>
+## ✨ About Me
 <p align="left">
 I am a third-year computer science student at State Vocational School 4 Malang, passionate about exploring the realms of coding, web development, and building robust applications. 
 </p>
