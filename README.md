@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋 I'm Damar Ramadhan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<p>Hallo everyone, I'm Damarbumi Ramadhan, Damar for short. I'm a passionate - on learning - frontend developer based on Indonesia</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✨ About Me</h3>
 <p align="left">
-<a href="https://instagram.com/damarmdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damarmdhan" height="30" width="40" /></a>
+I am a third-year computer science student at State Vocational School 4 Malang, passionate about exploring the realms of coding, web development, and building robust applications. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
